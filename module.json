@@ -1,0 +1,19 @@
+{
+  "name": "IzCore",
+  "alias": "izcore",
+  "description": "",
+  "keywords": [],
+  "active": 1,
+  "order": 0,
+  "providers": [
+    "Modules\\IzCore\\Providers\\IzCoreServiceProvider",
+    "Modules\\IzCore\\Providers\\IzThemeServiceProvider",
+    "Modules\\IzCore\\Providers\\IzConfigServiceProvider",
+    "Modules\\IzCore\\Providers\\IzMenuServiceProvider",
+    "Modules\\IzCore\\Providers\\IzXmlServiceProvider"
+  ],
+  "aliases": {},
+  "files": [
+    "start.php"
+  ]
+}
