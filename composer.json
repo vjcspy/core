@@ -1,6 +1,6 @@
 {
-  "name": "vjcspy/izcore",
-  "vendor":"vjcspy",
+  "name": "iz/core",
+  "vendor":"iz",
   "type": "magento-library",
   "description": "",
   "authors": [
